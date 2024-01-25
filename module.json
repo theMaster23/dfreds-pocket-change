@@ -20,7 +20,7 @@
   "compatibility": {
     "minimum": 10,
     "verified": "10.291",
-    "maximum": 10
+    "maximum": 11
   },
   "scripts": [],
   "esmodules": ["./scripts/main.js"],
